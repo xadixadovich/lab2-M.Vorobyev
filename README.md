@@ -150,8 +150,6 @@
 
 <img width="802" height="552" alt="image" src="https://github.com/user-attachments/assets/ec7e9d10-d665-4238-b4d0-3f84fd68c37c" />
 
-<img width="553" height="445" alt="image" src="https://github.com/user-attachments/assets/c55d3858-aa34-4d2b-81b3-a5888adcaa76" />
-
 ---
 
 ## 7. Описание того, что получилось при запуске интегрированной системы
