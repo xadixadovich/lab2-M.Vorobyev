@@ -140,6 +140,16 @@
 ---
 
 ## 6. Скриншот прохождения всех трёх модулей последовательно (пункт 4 меню)
+<img width="1028" height="869" alt="image" src="https://github.com/user-attachments/assets/b7950fc6-2b6f-4c55-946c-4a0abcecb3dc" />
+
+<img width="835" height="657" alt="image" src="https://github.com/user-attachments/assets/5c3a338b-6590-4cc6-9fdc-40d207eac9ae" />
+
+<img width="673" height="440" alt="image" src="https://github.com/user-attachments/assets/28023cbb-509a-44e0-83fa-ce57c4532485" />
+
+<img width="649" height="453" alt="image" src="https://github.com/user-attachments/assets/44a310db-29f9-40a7-b140-e8fbac3d880b" />
+
+<img width="802" height="552" alt="image" src="https://github.com/user-attachments/assets/ec7e9d10-d665-4238-b4d0-3f84fd68c37c" />
+
 <img width="553" height="445" alt="image" src="https://github.com/user-attachments/assets/c55d3858-aa34-4d2b-81b3-a5888adcaa76" />
 
 ---
